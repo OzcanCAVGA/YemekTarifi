@@ -6,7 +6,7 @@ Bu proje **[patika.dev](https://app.patika.dev)** web sitesinin istediği bir ç
 # Dosyalar
 
 İçerisinde
- - HTML dosyaları
+ - HTML dosyasi
 barındırır.
 
 ## Neler Kullanıldı?
